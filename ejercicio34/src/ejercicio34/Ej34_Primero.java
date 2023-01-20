@@ -6,4 +6,7 @@ public class Ej34_Primero {
 		System.out.println("Hola Mundo");
 	}
 
+	public void soloCommit() {
+		System.out.println("commit");
+	}
 }
