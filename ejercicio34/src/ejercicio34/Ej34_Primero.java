@@ -8,4 +8,7 @@ public class Ej34_Primero {
 		System.out.println("subida luis merge");
 	}
 
+	public void soloCommit() {
+		System.out.println("commit");
+	}
 }
